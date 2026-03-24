@@ -1,3 +1,4 @@
 # sklm-demo
-This is my first Git Repository 
-author - soujanya pujar
+This is my first Git Repository.
+<br>
+Author - soujanya pujar
